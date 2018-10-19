@@ -7,7 +7,7 @@ This is proved and working under a raspberry pi 3 and the latest raspbian stretc
 
 First get installed all the dependencies for opencv
 
-sudo apt-get update && sudo apt-get upgrade
+- sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install build-essential cmake pkg-config 
 sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
 sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
