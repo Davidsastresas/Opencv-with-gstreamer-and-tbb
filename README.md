@@ -23,7 +23,7 @@ Gstreamer packages
 - sudo apt install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
 
 
-V4l needed for use with C++
+V4l needed for raspberry pi camera use:
 
 - sudo apt-get -y install libv4l-dev v4l-utils
 
